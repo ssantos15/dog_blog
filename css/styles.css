@@ -7,3 +7,8 @@ img.intro{
   margin-left: auto;
   margin-right: auto;
 }
+
+.differentBg {
+  background-color: black;
+  color: white;
+}
